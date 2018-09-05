@@ -1,0 +1,22 @@
+Car Pooling Application :-
+
+1) The first page of the application consists of three main buttons like "Register", "Login" and "About".
+2) The "Register" button will redirect to a page, where we need to enter our Vam id and personal details.
+3) The employees information will be stored when clicked on submit button.
+4) The registered user needs to log in by clicking on the "Login" button.
+5) The "log in" button will redirect to another page with two fields, ie username and password.
+6) There will be another option like 'forgot password' to regenerate.
+7) Upon logging into the application, the home page will contain three major features :
+                     - Car Request
+                     - Car Offering
+                     - Credits
+8) "Car Offering" is the feature where a owner will register the car by providing the information like 
+vehicle number,type and providing the route and timings and number of seats available in the car.
+9) If the car owner is new, then only he needs to enter all the details otherwise if he wishes to choose
+from the old details, they can also be selected from drop down menu.
+10) "Car Request" is another main feature where person will request for a ride.
+11) in this feature the person will select the particular route and timings and will submit them, then 
+he needs to wait till the car owner confirms the ride.
+12) When the car owner accepts the request then it is approved.
+13) "Credits" is another feature where ratings are to be given for the driver,so that it will promote 
+them to help others.
